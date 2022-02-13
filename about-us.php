@@ -41,6 +41,11 @@
                         class="px-4 py-2 mt-2 mr-4 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
                         >Pricing</a
                     >
+                    <a
+                        href="gallery.php"
+                        class="px-4 py-2 mt-2 mr-4 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+                        >Gallery</a
+                    >
                 </nav>
                 <a
                     href="contact-us.php"
@@ -70,9 +75,9 @@
                             <h1
                                 class="text-dark font-bold text-4xl sm:text-[42px] lg:text-[40px] xl:text-[42px] leading-snug mb-3"
                             >
-                                Kickstart <br />
-                                Startup Website <br />
-                                with TailGrids.
+                                Keep Smile <br />
+                                Your your Face <br />
+                                For Ever.
                             </h1>
                             <p
                                 class="text-base mb-8 text-body-color max-w-[480px]"
@@ -373,11 +378,11 @@
                 >
                     © 2022 Smile Hub —
                     <a
-                        href="https://twitter.com/knyttneve"
+                        href="https://twitter.com/keerti6031"
                         class="text-gray-600 ml-1"
                         rel="noopener noreferrer"
                         target="_blank"
-                        >@knyttneve</a
+                        >@keerti6031</a
                     >
                 </p>
                 <span

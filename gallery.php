@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="css/style.css" />
-        <title>Contact Us Page</title>
+        <title>Home Page</title>
     </head>
     <body>
         <header class="text-gray-600 body-font" style="background: #a6c4cb">
@@ -66,70 +66,76 @@
             </div>
         </header>
 
-        <section class="text-gray-600 body-font relative">
-            <div class="absolute inset-0 bg-gray-300">
-                <iframe
-                    width="100%"
-                    height="100%"
-                    frameborder="0"
-                    marginheight="0"
-                    marginwidth="0"
-                    title="map"
-                    scrolling="no"
-                    src="https://maps.google.com/maps?width=100%&height=600&hl=en&q=%C4%B0zmir+(My%20Business%20Name)&ie=UTF8&t=&z=14&iwloc=B&output=embed"
-                    style="filter: grayscale(1) contrast(1.2) opacity(0.4)"
-                ></iframe>
-            </div>
-            <div class="container px-5 py-24 mx-auto flex">
-                <div
-                    class="lg:w-1/3 md:w-1/2 bg-white rounded-lg p-8 flex flex-col md:ml-auto w-full mt-10 md:mt-0 relative z-10 shadow-md"
-                >
-                    <h2
-                        class="text-gray-900 text-lg mb-1 font-medium title-font"
-                    >
-                        Feedback
-                    </h2>
-                    <p class="leading-relaxed mb-5 text-gray-600">
-                        Post-ironic portland shabby chic echo park, banjo
-                        fashion axe
-                    </p>
-                    <div class="relative mb-4">
-                        <label
-                            for="email"
-                            class="leading-7 text-sm text-gray-600"
-                            >Email</label
-                        >
-                        <input
-                            type="email"
-                            id="email"
-                            name="email"
-                            class="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
-                        />
-                    </div>
-                    <div class="relative mb-4">
-                        <label
-                            for="message"
-                            class="leading-7 text-sm text-gray-600"
-                            >Message</label
-                        >
-                        <textarea
-                            id="message"
-                            name="message"
-                            class="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
-                        ></textarea>
-                    </div>
-                    <button
-                        class="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
-                    >
-                        Button
-                    </button>
-                    <p class="text-xs text-gray-500 mt-3">
-                        Chicharrones blog helvetica normcore iceland tousled
-                        brook viral artisan.
-                    </p>
-                </div>
-            </div>
-        </section>
+        <section class="text-gray-600 body-font">
+  <div class="container px-5 py-24 mx-auto">
+    <div class="flex flex-col text-center w-full mb-20">
+      <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Master Cleanse Reliac Heirloom</h1>
+      <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom.</p>
+    </div>
+    <div class="flex flex-wrap -m-4">
+      <div class="lg:w-1/3 sm:w-1/2 p-4">
+        <div class="flex relative">
+          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://source.unsplash.com/600x360?dental">
+          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
+            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Shooting Stars</h1>
+            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+          </div>
+        </div>
+      </div>
+      <div class="lg:w-1/3 sm:w-1/2 p-4">
+        <div class="flex relative">
+          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://source.unsplash.com/601x361?dental">
+          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
+            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">The Catalyzer</h1>
+            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+          </div>
+        </div>
+      </div>
+      <div class="lg:w-1/3 sm:w-1/2 p-4">
+        <div class="flex relative">
+          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://source.unsplash.com/603x363?dental">
+          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
+            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">The 400 Blows</h1>
+            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+          </div>
+        </div>
+      </div>
+      <div class="lg:w-1/3 sm:w-1/2 p-4">
+        <div class="flex relative">
+          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://source.unsplash.com/602x362?dental">
+          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
+            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Neptune</h1>
+            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+          </div>
+        </div>
+      </div>
+      <div class="lg:w-1/3 sm:w-1/2 p-4">
+        <div class="flex relative">
+          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://source.unsplash.com/605x365?dental">
+          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
+            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Holden Caulfield</h1>
+            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+          </div>
+        </div>
+      </div>
+      <div class="lg:w-1/3 sm:w-1/2 p-4">
+        <div class="flex relative">
+          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://source.unsplash.com/606x366?dental">
+          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
+            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Alper Kamu</h1>
+            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
         <footer class="text-gray-600 body-font">
             <div

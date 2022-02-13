@@ -37,8 +37,13 @@
                     >
                     <a
                         href="pricing.php"
-                        class="px-4 py-2 mt-2 mr-4 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+                        class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
                         >Pricing</a
+                    >
+                    <a
+                        href="gallery.php"
+                        class="px-4 py-2 mt-2 mr-4 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+                        >Gallery</a
                     >
                 </nav>
                 <a
@@ -180,7 +185,7 @@
                     <img
                         class="object-cover object-center rounded"
                         alt="hero"
-                        src="https://source.unsplash.com/720x600?teeth"
+                        src="./images/720x600-1.jpg"
                     />
                 </div>
             </div>
@@ -194,7 +199,7 @@
                     <img
                         class="object-cover object-center rounded"
                         alt="hero"
-                        src="https://source.unsplash.com/720x600?dental"
+                        src="./images/720x600-2.jpg"
                     />
                 </div>
                 <div
@@ -233,11 +238,11 @@
                 Alpine.data("slider", () => ({
                     currentIndex: 1,
                     images: [
-                        "https://source.unsplash.com/1600x900/?teeth",
-                        "https://source.unsplash.com/1600x900/?clinic",
-                        "https://source.unsplash.com/1600x900/?dentist",
-                        "https://source.unsplash.com/1600x900/?care",
-                        "https://source.unsplash.com/1600x900/?brush",
+                        "./images/slider/source.unsplash-1.jpg",
+                        "./images/slider/source.unsplash-2.jpg",
+                        "./images/slider/source.unsplash-3.jpg",
+                        "./images/slider/source.unsplash-4.jpg",
+                        "./images/slider/source.unsplash-5.jpg",
                     ],
                     back() {
                         if (this.currentIndex > 1) {
@@ -284,11 +289,11 @@
                 >
                     © 2022 Smile Hub —
                     <a
-                        href="https://twitter.com/knyttneve"
+                        href="https://twitter.com/keerti6031"
                         class="text-gray-600 ml-1"
                         rel="noopener noreferrer"
                         target="_blank"
-                        >@knyttneve</a
+                        >@keerti6031</a
                     >
                 </p>
                 <span
