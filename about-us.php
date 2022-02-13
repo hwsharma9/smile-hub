@@ -6,7 +6,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="css/style.css" />
         <link rel="stylesheet" href="css/tailgrids-fallback.css" />
-        <title>Home Page</title>
+        <link rel="icon" type="image/x-icon" href="./images/favicon.ico">
+        <title>About Us Page</title>
     </head>
     <body>
         <header class="text-gray-600 body-font" style="background: #a6c4cb">
