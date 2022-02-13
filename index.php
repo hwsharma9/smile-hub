@@ -13,7 +13,7 @@
                 class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center"
             >
                 <a
-                    href="index.html"
+                    href="index.php"
                     class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0"
                 >
                     <img
@@ -26,23 +26,23 @@
                     class="md:ml-auto flex flex-wrap items-center text-base justify-center"
                 >
                     <a
-                        href="about-us.html"
+                        href="about-us.php"
                         class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
                         >About Us</a
                     >
                     <a
-                        href="services.html"
+                        href="services.php"
                         class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
                         >Services</a
                     >
                     <a
-                        href="pricing.html"
+                        href="pricing.php"
                         class="px-4 py-2 mt-2 mr-4 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
                         >Pricing</a
                     >
                 </nav>
                 <a
-                    href="contact-us.html"
+                    href="contact-us.php"
                     class="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0"
                 >
                     Book a Free Appointment
