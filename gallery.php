@@ -75,7 +75,7 @@
     <div class="flex flex-wrap -m-4">
       <div class="lg:w-1/3 sm:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://source.unsplash.com/600x360?dental">
+          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="./images/gallery/image-1.jpeg">
           <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Shooting Stars</h1>
@@ -85,7 +85,7 @@
       </div>
       <div class="lg:w-1/3 sm:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://source.unsplash.com/601x361?dental">
+          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="./images/gallery/image-2.jpeg">
           <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">The Catalyzer</h1>
@@ -95,7 +95,7 @@
       </div>
       <div class="lg:w-1/3 sm:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://source.unsplash.com/603x363?dental">
+          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="./images/gallery/image-3.jpeg">
           <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">The 400 Blows</h1>
@@ -105,7 +105,7 @@
       </div>
       <div class="lg:w-1/3 sm:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://source.unsplash.com/602x362?dental">
+          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="./images/gallery/image-4.jpeg">
           <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Neptune</h1>
@@ -115,7 +115,7 @@
       </div>
       <div class="lg:w-1/3 sm:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://source.unsplash.com/605x365?dental">
+          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="./images/gallery/image-5.jpeg">
           <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Holden Caulfield</h1>
@@ -125,7 +125,7 @@
       </div>
       <div class="lg:w-1/3 sm:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://source.unsplash.com/606x366?dental">
+          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="./images/gallery/image-6.jpeg">
           <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Alper Kamu</h1>
